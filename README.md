@@ -3,7 +3,7 @@
 ## 使用方法
 
 ```shell
-git clone https://github.com/qRuWGQ/syncthing_relay_server.git
+git clone https://github.com/qRuWGQ/syncthing_relay_server.git && cd syncthing_relay_server
 
 docker build -t strelay:v1 .
 
